@@ -2,12 +2,12 @@ BILL OF SALE
 
 ______________ (Date)
 
-For the consideration of $______.__ I, Jacob Repp, of Laguna Niguel, CA ('Seller'), hereby sell, assign and transfer to ________________ (Full Name), of ________________________ (Location) ('Buyer'), the following described motorcycle ('Vehicle').
+For the consideration of $______.__ I, NAME, of CITY, STATE ('Seller'), hereby sell, assign and transfer to ________________ (Full Name), of ________________________ (Location) ('Buyer'), the following described motorcycle ('Vehicle').
 
 Make:	Honda
-Model:  CBR929RR
-Year:   2001
-VIN:    JH2SC440X1M100738
+Model:  
+Year:   
+VIN:    
 
 Seller states that the mileage reading on the odometer at time of sale is ________ miles. Seller certifies that to the best of Seller’s knowledge, this reading reflects the actual mileage of the Vehicle. Further, the Vehicle’s odometer has not been altered, set back or disconnected while in Seller’s possession, nor does seller have knowledge of anyone else doing so.
 
